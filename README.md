@@ -4,7 +4,7 @@ Hey there!
 
 I am Komodo! I love coding, webapp security, exploitation, reversing and osint.
 
-![amongus](https://media.discordapp.net/attachments/1061720401216028764/1121502006348107947/amongus.gif)
+![amongus](https://github.com/komodoooo/komodoooo/assets/68278515/cf9c4b0c-474f-48e9-aff6-a391c7cb75ab)
 
 ## How to contact me
 
