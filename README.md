@@ -27,6 +27,13 @@ Oh, sometimes i use **[Github gist](https://gist.github.com/komodoooo)**!
 
 [![](https://img.shields.io/badge/replit-ciencias-100000?style=for-the-badge&logo=Replit&logoColor=white&labelColor=black&color=grey)](https://replit.com/@ciencias?tab=repls) [![](https://img.shields.io/badge/%20-piaoxiao-100000?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=black&color=grey)](https://hackerone.com/piaoxiao) [![](https://img.shields.io/badge/rootme-xiaopiao-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=grey)](https://www.root-me.org/xiaopiao?lang=en) [![](https://img.shields.io/badge/picoCTF-xiaopiao-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=grey)](https://play.picoctf.org/users/xiaopiao)
 
+<details>
+  <summary>Certs</summary>
+  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/16f37b23-c253-457e-8708-8916a08b03c0><br>
+  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/7dcacbfe-8eb5-4834-972b-ef001c33eaba>
+
+</details>
+
 ### Profile views
 
 ![](https://profile-counter.glitch.me/komodoooo/count.svg?)
