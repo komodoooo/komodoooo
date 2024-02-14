@@ -28,9 +28,9 @@ Oh, sometimes i use **[Github gist](https://gist.github.com/komodoooo)**!
 [![](https://img.shields.io/badge/replit-ciencias-100000?style=for-the-badge&logo=Replit&logoColor=white&labelColor=black&color=grey)](https://replit.com/@ciencias?tab=repls) [![](https://img.shields.io/badge/%20-piaoxiao-100000?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=black&color=grey)](https://hackerone.com/piaoxiao) [![](https://img.shields.io/badge/rootme-xiaopiao-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=grey)](https://www.root-me.org/xiaopiao?lang=en) [![](https://img.shields.io/badge/picoCTF-xiaopiao-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=grey)](https://play.picoctf.org/users/xiaopiao)
 
 <details>
-  <summary>Certs</summary>
-  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/16f37b23-c253-457e-8708-8916a08b03c0><br>
-  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/7dcacbfe-8eb5-4834-972b-ef001c33eaba>
+  <summary><h2>Certs</h2></summary>
+  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/628ee989-1dde-47c9-966a-826eb0236f66><br>
+  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/7f8f8733-e0e6-43ae-8a27-367301e1d6e3>
 
 </details>
 
