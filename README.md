@@ -29,9 +29,8 @@ Oh, sometimes i use **[Github gist](https://gist.github.com/komodoooo)**!
 
 <details>
   <summary><h2>Certs</h2></summary>
-  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/628ee989-1dde-47c9-966a-826eb0236f66><br>
-  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/7f8f8733-e0e6-43ae-8a27-367301e1d6e3>
-
+  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/d701cd40-bd0b-473f-a848-8f6729a9a2c8><br>
+  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/1b4688cc-8b44-4e27-8319-301e91cfdd53>
 </details>
 
 ### Profile views
