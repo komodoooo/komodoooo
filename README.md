@@ -2,7 +2,7 @@
 
 Hey there! 
 
-I am Komodo! I love coding, webapp security, exploitation, reversing and osint.
+I am Komodo! I love coding, infosec and osint.
 
 ![7juzk65bfoda1](https://github.com/komodoooo/komodoooo/assets/68278515/4c040d73-a90b-4cdb-85a6-b6c4eaa7ab47)
 
