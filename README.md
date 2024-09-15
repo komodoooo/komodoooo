@@ -8,11 +8,10 @@ I am Komodo! I love coding, infosec and osint.
 
 ## How to contact me
 
-⚜Discord: Loja#1770
-
-⚜Email: loja@duck.com
-
-⚜Telegram: @elbozoo
+⚜Email: loja@duck.com<br>
+⚜Telegram: [@elbozoo](https://t.me/elbozoo)<br>
+⚜Matrix: [@lojauwu](https://matrix.to/#/@lojauwu:matrix.org)<br>
+⚜XMPP: loja@07f.de
 
 ![](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=komodoooo&langs_count=10&layout=compact&hide_progress=true&theme=radical)
