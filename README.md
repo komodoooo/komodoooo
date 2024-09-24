@@ -14,8 +14,8 @@ I am Komodo! I love coding, infosec and osint.
 ⚜XMPP: loja@07f.de
 
 ![](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=komodoooo&langs_count=10&layout=compact&hide_progress=true&theme=radical)
-<br>Oh, sometimes i use **[Github gist](https://gist.github.com/komodoooo)**!
+<br>
+###### Oh, sometimes i use **[Github gist](https://gist.github.com/komodoooo)**!
 
 ## I have experience with
 
@@ -24,12 +24,6 @@ I am Komodo! I love coding, infosec and osint.
 ## Other links
 
 [![](https://img.shields.io/badge/replit-ciencias-100000?style=for-the-badge&logo=Replit&logoColor=white&labelColor=black&color=grey)](https://replit.com/@ciencias?tab=repls) [![](https://img.shields.io/badge/%20-piaoxiao-100000?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=black&color=grey)](https://hackerone.com/piaoxiao) [![](https://img.shields.io/badge/rootme-xiaopiao-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=grey)](https://www.root-me.org/xiaopiao?lang=en) [![](https://img.shields.io/badge/picoCTF-xiaopiao-100000?style=for-the-badge&logo=&logoColor=white&labelColor=black&color=grey)](https://play.picoctf.org/users/xiaopiao)
-
-<details>
-  <summary><h2>Certs</h2></summary>
-  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/d701cd40-bd0b-473f-a848-8f6729a9a2c8><br>
-  <img src=https://github.com/komodoooo/komodoooo/assets/68278515/1b4688cc-8b44-4e27-8319-301e91cfdd53>
-</details>
 
 ### Profile views
 
