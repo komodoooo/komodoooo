@@ -10,7 +10,6 @@ I am Komodo! I love coding, infosec and osint.
 
 ⚜Email: loja@duck.com<br>
 ⚜Telegram: [@elbozoo](https://t.me/elbozoo)<br>
-⚜Matrix: [@lojauwu](https://matrix.to/#/@lojauwu:matrix.org)<br>
 ⚜XMPP: loja@xmpp.is
 
 ![](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)
