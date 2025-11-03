@@ -3,7 +3,7 @@ Hey there, I am Komodo!<br>
 I love infosec, osint and everything that revolves around it.
 
 ## How to contact me
-* Telegram: [@elbozoo](https://t.me/elbozoo)<br>
+* Telegram: [@lojabytes](https://t.me/lojabytes)<br>
 * Email: loja@duck.com<br>
 * XMPP: loja@xmpp.is
 
