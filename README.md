@@ -6,7 +6,6 @@ I love infosec, osint and everything that revolves around it.
 * Telegram: [@lojabytes](https://t.me/lojabytes)<br>
 * Email: loja@duck.com<br>
 * XMPP: loja@xmpp.is
-
 ![](https://github-readme-stats.vercel.app/api?username=komodoooo&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)<br>
 ###### Oh, sometimes i use **[Github gist](https://gist.github.com/komodoooo)**
 
